@@ -1,0 +1,2 @@
+Pokemons link : https://raw.githubusercontent.com/Biuni/PokemonGO-Pokedex/master/pokedex.json
+Convert JSON to Excel : https://www.convertcsv.com/json-to-csv.htm

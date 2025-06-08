@@ -1,0 +1,10 @@
+Se habia conecta esta aplicacion antes por medio de XAMPP pero ahora utilizo SUPABASE con integracion asi que todo esto yaa
+no se necesita 
+
+
+Base -> https://dribbble.com/shots/6540871-pokedex-app
+
+Conversion de del modelo -> https://app.quicktype.io
+
+Database -> http://localhost:90/personal_apipokemon/controller/pokemon.php?op=list
+

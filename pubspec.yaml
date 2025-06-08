@@ -1,0 +1,37 @@
+name: andercode_flutter_pokedex
+description: "A new Flutter project."
+publish_to: 'none' 
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.5.1
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  # Paquetes adicionales
+  cached_network_image: ^3.4.1
+  get: ^4.6.6
+
+  # Iconos para aplicaciones estilo iOS
+  cupertino_icons: ^1.0.8
+  flutter_launcher_icons: ^0.13.1
+  supabase_flutter: ^2.8.4
+
+  # Flutter.env para variables de entorno
+  flutter_dotenv: ^5.1.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^4.0.0
+
+flutter:
+  uses-material-design: true
+
+  # Agregar directorio de imágenes
+  assets:
+    - images/
+    - .env
